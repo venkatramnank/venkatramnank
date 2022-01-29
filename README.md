@@ -2,6 +2,10 @@
 
 A final year BTech student at the ECE Department of PES University.  I am majoring in Electronics and Communication and minors in Computer Science.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
+</p>
+
 ### Research Interests
 * Deep Learning
 * Machine Learning
