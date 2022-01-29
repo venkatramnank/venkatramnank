@@ -7,10 +7,6 @@ A final year BTech student at the ECE Department of PES University.  I am majori
   <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
 </p>
 
-<p align="right">
-  <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
-</p>
-
 
 ### Research Interests
 * Deep Learning
