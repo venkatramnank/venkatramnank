@@ -10,13 +10,13 @@ A final year BTech student at the ECE Department of PES University.  I am majori
 * IoT (Raspberry Pi)
 * Reinforcement Learning
 
-### Mjaor Areas of Work
+### Major Areas of Work
 * Deep Learning for Wireless Resource Allocation
 * Deep Learning in Medical Imaging
 * Predictive Performance in 802.11 using ML
 * AI in Image Security
 
-### Portfolio : https://sites.google.com/view/venkatramnank/home
+##### Portfolio : https://sites.google.com/view/venkatramnank/home
 
-### Google Scholar : https://scholar.google.com/citations?user=m7CL7o4AAAAJ&hl=en
+##### Google Scholar : https://scholar.google.com/citations?user=m7CL7o4AAAAJ&hl=en
 
