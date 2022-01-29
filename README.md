@@ -6,6 +6,7 @@ A final year BTech student at the ECE Department of PES University.  I am majori
   <img width="400" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
   <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
   <img width="300" height="300" src="https://github.com/venkatramnank/BrainTumorClassification/blob/master/braingif.gif">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/65702476/151669552-0d231ed5-a849-4226-af9a-d1073eada558.gif">
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65702476/151669552-0d231ed5-a849-4226-af9a-d1073eada558.gif)
 </p>
 
