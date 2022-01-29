@@ -3,10 +3,10 @@
 A final year BTech student at the ECE Department of PES University.  I am majoring in Electronics and Communication and minors in Computer Science.
 
 <p align="left">
-  <img width="400" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
+  <img width="450" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
 </p>
 
-<p align="center">
+<p align="right">
   <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
 </p>
 
