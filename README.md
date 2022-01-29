@@ -1,4 +1,4 @@
-### Hi there 👋 I am K Venkat Ramnan
+### Hi there 👋 I am K Venkat Ramnan 
 
 A final year BTech student at the ECE Department of PES University.  I am majoring in Electronics and Communication and minors in Computer Science.
 
