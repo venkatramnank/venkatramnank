@@ -3,8 +3,13 @@
 A final year BTech student at the ECE Department of PES University.  I am majoring in Electronics and Communication and minors in Computer Science.
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
+  <img width="300" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
 </p>
+
+<p align="left">
+  <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
+</p>
+
 
 ### Research Interests
 * Deep Learning
