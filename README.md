@@ -1,6 +1,6 @@
 ### Hi there 👋 I am K Venkat Ramnan 
 
-A final year BTech student at the ECE Department of PES University.  I am majoring in Electronics and Communication and minors in Computer Science.
+A Masters in Computer Science Student at Oregon State University. Currently a Graduate Research Assistant researching with the OSU MCS group.
 
 <p >
   <img width="400" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
