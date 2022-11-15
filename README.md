@@ -19,12 +19,13 @@ A Masters in Computer Science Student at Oregon State University. Currently a Gr
 * Reinforcement Learning
 
 ### Major Areas of Work
+* Machine Common Sense : Violation of Expectation
 * Deep Learning for Wireless Resource Allocation
 * Deep Learning in Medical Imaging
 * Predictive Performance in 802.11 using ML
 * AI in Image Security
 
-##### Portfolio : https://sites.google.com/view/venkatramnank/home
+
 
 ##### Google Scholar : https://scholar.google.com/citations?user=m7CL7o4AAAAJ&hl=en
 
