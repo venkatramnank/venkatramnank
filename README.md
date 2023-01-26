@@ -1,8 +1,9 @@
 ### Hi there 👋 I am K Venkat Ramnan 
 
-A Masters in Computer Science Student at Oregon State University. Currently a Graduate Research Assistant researching with the OSU MCS group.
+A Masters in Computer Science Student at Oregon State University. Currently a Graduate Research Assistant researching with the OSU Machine Common Sense group.
 
 <p >
+  
   <img width="400" height="300" src="https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/Whiteboard.jpeg">
   <img width="300" height="300" src="https://github.com/venkatramnank/VisualizingDICOM/blob/main/lungs.gif">
   <img width="300" height="300" src="https://github.com/venkatramnank/BrainTumorClassification/blob/master/braingif.gif">
